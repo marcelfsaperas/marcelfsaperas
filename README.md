@@ -33,6 +33,8 @@
 ### 📚 **Projects**
 Here are some of my notable projects:
 
+- 🚀Mi actividad en Jo-El: [Jo-El](https://jo-el.es/user/marcelfs) 🚀
+
 - 📝 **Project 1:** [Project Title](https://github.com/yourusername/project1)  
   A brief description of what the project does and the technologies used (Java, SQL, etc.).
 
