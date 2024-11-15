@@ -3,9 +3,10 @@
   A passionate developer skilled in Java, Python, JavaScript, HTML, and SQL.
 </p>
 
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/assets/banner.png" alt="Banner Image" width="800px">
-</p>
+<div align="center">
+  <img src="https://i.gifer.com/45RT.gif" alt="Banner Image" width="100px">
+</div>
+
 
 ---
 
@@ -20,10 +21,11 @@
 
 ---
 
-### 📈 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="400px">
+
+<h3 align="center">🔥 GitHub Stats 🔥</h3>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelfsaperas&show_icons=true&theme=radical" style="max-width: 100%; height: auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelfsaperas&theme=radical" style="max-width: 100%; height: auto;">
 </div>
 
 ---
@@ -59,7 +61,8 @@ Here are some of my notable projects:
 
 ---
 
-<p align="center">
-  <img src="https://github.com/yourusername/yourusername/assets/footer.png" alt="Footer Image" width="600px">
-</p>
+<div align="center">
+  <img src="https://i.gifer.com/5Q0v.gif" alt="Banner Image" width="200px">
+</div>
+
 
