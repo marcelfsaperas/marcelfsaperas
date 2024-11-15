@@ -62,7 +62,7 @@ Here are some of my notable projects:
 </p>
 
 ---
-
+Bye!
 <div align="center">
   <img src="https://i.gifer.com/5Q0v.gif" alt="Banner Image" width="200px">
 </div>
