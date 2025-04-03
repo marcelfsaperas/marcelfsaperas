@@ -19,7 +19,7 @@
 <br>
 <div align="center"> 
   Contribution Graph<br>  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcelfsaperas&theme=radical" alt="Contribution Graph" width="800px"> 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelfsaperas&theme=github_dark)
 </div>
 
 ---
