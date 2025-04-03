@@ -46,10 +46,12 @@ Here are some of my notable projects:
 ---
 
 🌱 Currently Learning
-TypeScript
-Next.js
-Cloud Computing (AWS, Azure)
-Docker & Kubernetes
+JavaScript
+Java
+MySQL
+Python
+HTML
+CSS
 📈 Profile Insights
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfsaperas&layout=compact&theme=radical" alt="Top Languages"> </p>
 📫 Connect with Me
