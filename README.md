@@ -28,8 +28,8 @@ Here are some of my notable projects:
 
 - 🚀Mi actividad en Jo-El: [Jo-El](https://jo-el.es/user/marcelfs) 🚀
 
-- 📝 **Project 1:** [Project Title](https://github.com/yourusername/project1)  
-  A brief description of what the project does and the technologies used (Java, SQL, etc.).
+- 📝 **My CV:** ([https://github.com/yourusername/project1](https://github.com/marcelfsaperas/CV_MarcelFeliu))  
+  I did my own CV using HTML and CSS. This was my first project using HTML.
 
 - 🐍 **Project 2:** [Project Title](https://github.com/yourusername/project2)  
   Built with Python, showcasing features like data processing, automation, etc.
