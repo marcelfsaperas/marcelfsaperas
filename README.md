@@ -17,10 +17,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelfsaperas&theme=radical" style="max-width: 45%; height: auto;"> 
 </div> 
 <br>
-<div align="center"> 
-  Contribution Graph<br>  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelfsaperas&theme=github_dark)
-</div>
+
 
 ---
 
@@ -31,8 +28,6 @@
 
 ### 📚 **Projects**
 Here are some of my notable projects:
-
-- 🚀Mi actividad en Jo-El: [Jo-El](https://jo-el.es/user/marcelfs) 🚀
 
 - 📝 **My CV:** [Click Here!](https://github.com/marcelfsaperas/CV_MarcelFeliu) 
   <br> I did my own CV using HTML and CSS. This was my first project using HTML.
