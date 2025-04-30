@@ -32,8 +32,8 @@ Here are some of my notable projects:
 - 📝 **My CV:** [Click Here!](https://github.com/marcelfsaperas/CV_MarcelFeliu) 
   <br> I did my own CV using HTML and CSS. This was my first project using HTML.
 
-- 🐍 **Project 2:** [Project Title](https://github.com/yourusername/project2)  
-  Built with Python, showcasing features like data processing, automation, etc.
+- 🐍 **JavaCar:** [Project Title](https://github.com/marcelfsaperas/PracticaJavaCar)
+  <br> A car renting project made in Java.
 
 - 🌐 **Project 3:** [Project Title](https://github.com/yourusername/project3)  
   A web-based project using JavaScript and HTML.
