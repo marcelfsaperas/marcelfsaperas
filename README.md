@@ -32,11 +32,8 @@ Here are some of my notable projects:
 - 📝 **My CV:** [Click Here!](https://github.com/marcelfsaperas/CV_MarcelFeliu) 
   <br> I did my own CV using HTML and CSS. This was my first project using HTML.
 
-- 🐍 **JavaCar:** [Project Title](https://github.com/marcelfsaperas/PracticaJavaCar)
+- 🐍 **JavaCar:** [Click Here!](https://github.com/marcelfsaperas/PracticaJavaCar)
   <br> A car renting project made in Java.
-
-- 🌐 **Project 3:** [Project Title](https://github.com/yourusername/project3)  
-  A web-based project using JavaScript and HTML.
 
 ---
 
@@ -51,11 +48,6 @@ CSS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfsaperas&layout=compact&theme=radical" alt="Top Languages"> </p>
 📫 Connect with Me
 <p align="center"> <a href="mailto:marcel@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/marcelfsaperas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/marcelfsaperas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></p>
-
----
-
-📝 Currículum
-<p align="center"> <a href="https://yourwebsite.com/cv.pdf"><img src="https://img.shields.io/badge/Download%20CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a> </p>
 
 ---
 
