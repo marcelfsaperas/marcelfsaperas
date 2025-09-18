@@ -1,56 +1,52 @@
-<h1 align="center">👋 Hello, I'm Marcel!</h1> <p align="center"> A passionate developer skilled in Java, Python, JavaScript, HTML, and SQL. </p> <div align="center"> <img src="https://i.gifer.com/45RT.gif" alt="Banner Image" width="100px"> </div>
-
----
-
-🛠️ Tech Stack
+<h1 align="center">Hello, I'm Marcel Feliu Saperas 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  25 years old | Studying Multiplatform Application Development (DAM) at La Salle Gràcia | Internship at Nestlé
 </p>
 
-📊 GitHub Stats
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelfsaperas&show_icons=true&theme=radical" style="max-width: 45%; height: auto;"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelfsaperas&theme=radical" style="max-width: 45%; height: auto;"> 
-</div> 
-<br>
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+## 📚 Projects
+Some of my notable projects include:
+
+- **My CV** – [View Here](https://github.com/marcelfsaperas/CV_MarcelFeliu)  
+  Created a personal CV website using **HTML** and **CSS**. This was my first web-based project.
+
+- **JavaCar** – [View Here](https://github.com/marcelfsaperas/PracticaJavaCar)  
+  A **car rental management system** built in **Java**, implementing OOP principles.
 
 
----
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelfsaperas&show_icons=true&theme=transparent" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfsaperas&layout=compact&theme=transparent" height="160">
+</p>
 
-🏆 Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=marcelfsaperas&theme=radical&margin-w=15" alt="Trophies"> </p>
 
----
+## 🌱 Currently Learning
+- Machine Learning  
+- Android Development  
+- PHP  
+- Flutter  
+- Python  
 
-### 📚 **Projects**
-Here are some of my notable projects:
 
-- 📝 **My CV:** [Click Here!](https://github.com/marcelfsaperas/CV_MarcelFeliu) 
-  <br> I did my own CV using HTML and CSS. This was my first project using HTML.
-
-- 🐍 **JavaCar:** [Click Here!](https://github.com/marcelfsaperas/PracticaJavaCar)
-  <br> A car renting project made in Java.
-
----
-
-🌱 Currently Learning
-JavaScript
-Java
-MySQL
-Python
-HTML
-CSS
-📈 Profile Insights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelfsaperas&layout=compact&theme=radical" alt="Top Languages"> </p>
-📫 Connect with Me
-<p align="center"> <a href="mailto:marcel.fsaperas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/marcelfsaperas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
----
-
-Bye!
-
-<div align="center"> <img src="https://i.gifer.com/5Q0v.gif" alt="Footer Image" width="300px"> </div>
+## 📫 Connect with Me
+<p align="center">
+  <a href="mailto:marcel.fsaperas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/marcelfsaperas/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+</p>
