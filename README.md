@@ -16,15 +16,14 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
-## 📚 Projects
-Some of my notable projects include:
+ <h2>📚 Projects</h2>
 
-- **My CV** – [View Here](https://github.com/marcelfsaperas/CV_MarcelFeliu)  
+ **Project 1:** [My CV](https://github.com/marcelfsaperas/CV_MarcelFeliu)  
   Created a personal CV website using **HTML** and **CSS**. This was my first web-based project.
 
-- **JavaCar** – [View Here](https://github.com/marcelfsaperas/PracticaJavaCar)  
-  A **car rental management system** built in **Java**, implementing OOP principles.
-
+ **Project 2:** [JavaCar](https://github.com/marcelfsaperas/PracticaJavaCar)  
+  School project done with Java to create CLI app for car renting.
+  
 
 ## 📊 GitHub Overview
 <p align="center">
